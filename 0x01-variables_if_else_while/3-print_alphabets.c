@@ -13,7 +13,7 @@ for (c = '0'; c <= '9'; c++)
 {
 	putchar(c);
 }
-for (c = 'a'; c <= 'f'; c++)
+for (ch = 'A' ; ch <= 'Z' ; ch++)
 {
 	putchar(c);
 }
