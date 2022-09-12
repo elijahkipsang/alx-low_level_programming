@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
- * main - print possible combination of two 2-digit numbers
+ * main - print possible combination of two 2-digit
+ * numbers
  *
  * Return: 0
  */
@@ -29,4 +30,4 @@
 	}
 	putchar('\n');
 	return (0);
-}
+ }
